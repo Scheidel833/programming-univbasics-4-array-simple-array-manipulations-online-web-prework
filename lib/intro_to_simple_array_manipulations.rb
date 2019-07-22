@@ -2,7 +2,7 @@
 + array.push(string)
 +end
 +def using_unshift(array, string)
-+ array.unshift(string)f shift
++ array.unshift(string) shift
 +end
 +
 +def using.pop(array)
@@ -18,4 +18,16 @@
 +end
 +
 +def shift_with_args(array)
-+  array.s
++  array.shift(2)
++end 
++
++def using_concat(array,array2)
++ array.concat(array2)
++end
++
++end using_insert(array, element)
++ array.insert(4,element)
++end
++
++def 
++def
